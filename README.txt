@@ -9,3 +9,5 @@ We added a fourth line to this file.
 We added a fifth line to this file.
 
 We added a sixth line to this file.
+
+We added a seventh line variant B to this file. 
